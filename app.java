@@ -1,2 +1,5 @@
-This is an Java file
-It is a second file I have created for MyRepo
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}   
